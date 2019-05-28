@@ -1,1 +1,1 @@
-﻿# McDonald's web-page (uni project)
+﻿# McDonald's Self-order Web Page
